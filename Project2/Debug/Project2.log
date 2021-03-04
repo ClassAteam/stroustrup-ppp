@@ -1,0 +1,5 @@
+﻿  calculator02.cpp
+E:\repo\strou\text_lib\calculator02.cpp(18): warning C4715: 'get_value': not all control paths return a value
+E:\repo\strou\text_lib\calculator02.cpp(207): warning C4715: 'primary': not all control paths return a value
+E:\repo\strou\text_lib\calculator02.cpp(169): warning C4715: 'Token_stream::get': not all control paths return a value
+  Project2.vcxproj -> E:\repo\strou\Project1\Debug\Project2.exe
